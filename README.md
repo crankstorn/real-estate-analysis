@@ -15,7 +15,7 @@ In order to run it locally, it is required to have python installed in your comp
 ## Executing locally
 
 1. Fork this repository, by clicking the `Fork` button at the top-right on this page.
-[![Learn how to fork GitHub projects](/markdown/fork.png?cache=off)](https://guides.github.com/activities/forking/)
+[Learn how to fork GitHub projects](https://guides.github.com/activities/forking/)
 
 2. Clone the forked repository from your GitHub account.
 ```
