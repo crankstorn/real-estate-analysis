@@ -1,12 +1,12 @@
 <h1 align="center">
   <br>
-  Automating My Enlightenment
+  Real Estate Property Analysis
   <br>
 </h1>
 
 <h2 align="center">
   <br>
-  Real Estate Property Analysis
+  Automating My Enlightenment
   <br>
 </h2>
 
