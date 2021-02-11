@@ -28,9 +28,7 @@ Example of the printed PDF image:
 ![Good PDF print](/markdown/property_analysis_demo.PNG)
 
 
-
-
-Remember to press the `X` button on the Sidebar Segment, otherwise you will end up with a print like this one:
+Remember to press the `X` button on the Sidebar Segment before printing, otherwise you will end up with a print like this one:
 
 ![Bad PDF print](/markdown/property_analysis_demo_fail.PNG)
 
