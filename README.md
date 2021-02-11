@@ -36,6 +36,8 @@ Currently, the Real Estate Return Analysis web application is generating it's re
 
 In future versions, those values will be added into the "Optional inputs" section.
 
+In addition, the Loan Amortization Schedule Plot and Displayable Table are following the French Amortization System. 
+
 ## Credits
 
 This project uses several open source packages:
