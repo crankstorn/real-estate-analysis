@@ -70,6 +70,7 @@ This project has been inspired mainly by the following posts:
 - [Understanding the Mortgage Payment Structure](https://www.investopedia.com/mortgage/mortgage-rates/payment-structure/)
 - [Automating Real Estate Investment Analysis: Python Web Scraping Bot](https://towardsdatascience.com/automating-real-estate-investment-analysis-d2b07395833b)
 - [Calculating Principal And Interest Payments For A Loan Using Python And Numpy](https://pythontic.com/finance/numpy/ppmt%20and%20ipmt)
+- [The Ultimate Personal Web Resume](https://github.com/guilhermeborgesbastos/live-resume)
 
 ---
 
