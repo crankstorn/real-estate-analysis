@@ -50,6 +50,10 @@ git clone https://github.com/[replace-with-your-github-username]/real-estate-ana
 streamlit run [full path to saved file]
 ```
 
+## Executing on web browser
+
+Currently waiting for Streamlit aproval to deploy app.
+
 ## Non Parametric program assumptions
 
 Currently, the Real Estate Return Analysis web application is generating it's results tanking into account the following assumptions:
