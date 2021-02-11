@@ -13,7 +13,8 @@ import numpy as np
 def net_operating(rent, tax_rate, price, years_amort, percent, down_paymnt):
     # TAKES INPUT AS MONTHLY EXPECTED RENT, PROPERTY TAX RATE, PROPERTY PRICE, LOAN YEARS,
     # LOAN INTEREST AND DOWN PAYMENT TO CALCULATE THE MONTHLY OPERATING INCOME
-    # IN ADDITION, ASSUMES PROPERTY INSURANCE (1% OF THE RENT), CAPEX + REPAIRS AND VACANCY (2% OF THE RENT)
+    # IN ADDITION, ASSUMES PROPERTY INSURANCE (1% OF THE RENT), CAPEX + REPAIRS (2% OF THE PROPERTY PRICE)
+    # AND VACANCY (2% OF THE RENT)
 
     # LIST OF EXPENSES
     mortgage_amt = mortgage_monthly(price, years_amort, percent, down_paymnt)
