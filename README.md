@@ -17,7 +17,7 @@ In order to run it locally, it is required to have python installed in your comp
 
 ## Convert to PDF
 
-So far, Streamlit package has not added any convert to PDF functionality until now. However, we can quickly generate a PDF from the same web browser using the Ctrl + P (for Windows) or Command + P (for macOS) and selecting the option save as a PDF.
+So far, Streamlit package has not added any convert to PDF functionality. However, we can quickly generate a PDF from the same web browser using the Ctrl + P (for Windows) or Command + P (for macOS) and selecting the option save as a PDF.
 
 Example of the printed PDF image:
 
