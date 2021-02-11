@@ -7,9 +7,28 @@
 Simple Real Estate Return Analysis **Open-source Web Application**. Easy to use, developed as a side project to quickly analyze and compare Residential Properties. 
 
 
+![Watch the video](/markdown/property_analysis_demo_intro.gif)
+
+
 ## Prerequisite
 
 In order to run it locally, it is required to have python installed in your computer. In addition to that, several specific packages will be required  [_(see requiremts.txt)_](https://github.com/crankstorn/real-estate-analysis/blob/main/requirements.txt)
+
+
+## Convert to PDF
+
+So far, Streamlit package has not added any convert to PDF functionality until now. However, we can quickly generate a PDF from the same web browser using the Ctrl + P (for Windows) or Command + P (for macOS) and selecting the option save as a PDF.
+
+Example of the printed PDF image:
+
+![Good PDF print](/markdown/property_analysis_demo.PNG)
+
+
+
+
+Remember to press the `X` button on the Sidebar Segment, otherwise you will end up with a print like this one:
+
+![Bad PDF print](/markdown/property_analysis_demo_fail.PNG)
 
 
 ## Executing locally
