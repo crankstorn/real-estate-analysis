@@ -162,11 +162,11 @@ try:
     st.sidebar.write('')
     project_id = st.sidebar.text_input("Enter a Project ID:   ")
     trial = st.sidebar.text_input("Enter the total property price:   ")
-    down_paymnt = st.sidebar.text_input("Enter the loan down payment rate:   ")
-    loan_interest = st.sidebar.text_input("Enter the loan interest rate:   ")
+    down_paymnt = st.sidebar.text_input("Enter the loan down payment rate (0 - 100):   ")
+    loan_interest = st.sidebar.text_input("Enter the loan interest rate (0 - 100):   ")
     years_amort = st.sidebar.text_input("Enter the length of loan in years:   ")
     rent_amt = st.sidebar.text_input("Enter the expected monthly rent price:   ")
-    property_tax = st.sidebar.text_input("Enter the property tax rate:   ")
+    property_tax = st.sidebar.text_input("Enter the property tax rate (0 - 100):   ")
 
     # CREATING OPTIONAL INPUT OBJECTS FOR THE INTERFACE SIDEBAR
     if st.sidebar.checkbox('Display Optional inputs'):
